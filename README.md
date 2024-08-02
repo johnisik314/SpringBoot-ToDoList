@@ -45,7 +45,7 @@ Before you can run this application, you'll need the following installed on your
 
 - **DemoApplication.java**: The main class that runs the Spring Boot application and contains all endpoints and business logic.
 - **index.html**: The frontend HTML file located in `src/main/resources/templates`, which displays the To-Do list and includes forms for adding, editing, and deleting items.
-- **text.txt**: The text file used for persistence, located at `C:/Users/johni/Desktop/demo/demo/src/main/resources/text.txt`.
+- **text.txt**: The text file used for persistence, located at `.../demo/demo/src/main/resources/text.txt`.
 
 ## Editing the File Path
 

@@ -22,7 +22,7 @@ Before you can run this application, you'll need the following installed on your
 1. **Clone the Repository**:
    \```bash
    git clone https://github.com/johnisik314/SpringBoot-ToDoList.git
-   cd SpringBoot-ToDoList
+   \cd SpringBoot-ToDoList
    \```
 
 2. **Build the Application**:
